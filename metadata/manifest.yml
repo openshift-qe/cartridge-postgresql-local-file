@@ -57,4 +57,3 @@ Version-Overrides:
 
 Install-Build-Required: false
 Source-Url: file:///tmp/postgresqlv2cart.tgz 
-#kSource-Url: file:///$OPENSHIFT_DATA_DIR/postgresqlv2cart.tgz 
